@@ -1,0 +1,15 @@
+C:\Sharp\Solutions\ThirdTask\bin\Debug\net6.0\ThirdTask.exe
+C:\Sharp\Solutions\ThirdTask\bin\Debug\net6.0\ThirdTask.deps.json
+C:\Sharp\Solutions\ThirdTask\bin\Debug\net6.0\ThirdTask.runtimeconfig.json
+C:\Sharp\Solutions\ThirdTask\bin\Debug\net6.0\ThirdTask.dll
+C:\Sharp\Solutions\ThirdTask\bin\Debug\net6.0\ThirdTask.pdb
+C:\Sharp\Solutions\ThirdTask\obj\Debug\net6.0\ThirdTask.csproj.AssemblyReference.cache
+C:\Sharp\Solutions\ThirdTask\obj\Debug\net6.0\ThirdTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp\Solutions\ThirdTask\obj\Debug\net6.0\ThirdTask.AssemblyInfoInputs.cache
+C:\Sharp\Solutions\ThirdTask\obj\Debug\net6.0\ThirdTask.AssemblyInfo.cs
+C:\Sharp\Solutions\ThirdTask\obj\Debug\net6.0\ThirdTask.csproj.CoreCompileInputs.cache
+C:\Sharp\Solutions\ThirdTask\obj\Debug\net6.0\ThirdTask.dll
+C:\Sharp\Solutions\ThirdTask\obj\Debug\net6.0\refint\ThirdTask.dll
+C:\Sharp\Solutions\ThirdTask\obj\Debug\net6.0\ThirdTask.pdb
+C:\Sharp\Solutions\ThirdTask\obj\Debug\net6.0\ThirdTask.genruntimeconfig.cache
+C:\Sharp\Solutions\ThirdTask\obj\Debug\net6.0\ref\ThirdTask.dll

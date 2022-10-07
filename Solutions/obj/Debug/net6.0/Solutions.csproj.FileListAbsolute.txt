@@ -1,0 +1,15 @@
+C:\Sharp\Solutions\Solutions\bin\Debug\net6.0\Solutions.exe
+C:\Sharp\Solutions\Solutions\bin\Debug\net6.0\Solutions.deps.json
+C:\Sharp\Solutions\Solutions\bin\Debug\net6.0\Solutions.runtimeconfig.json
+C:\Sharp\Solutions\Solutions\bin\Debug\net6.0\Solutions.dll
+C:\Sharp\Solutions\Solutions\bin\Debug\net6.0\Solutions.pdb
+C:\Sharp\Solutions\Solutions\obj\Debug\net6.0\Solutions.csproj.AssemblyReference.cache
+C:\Sharp\Solutions\Solutions\obj\Debug\net6.0\Solutions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp\Solutions\Solutions\obj\Debug\net6.0\Solutions.AssemblyInfoInputs.cache
+C:\Sharp\Solutions\Solutions\obj\Debug\net6.0\Solutions.AssemblyInfo.cs
+C:\Sharp\Solutions\Solutions\obj\Debug\net6.0\Solutions.csproj.CoreCompileInputs.cache
+C:\Sharp\Solutions\Solutions\obj\Debug\net6.0\Solutions.dll
+C:\Sharp\Solutions\Solutions\obj\Debug\net6.0\refint\Solutions.dll
+C:\Sharp\Solutions\Solutions\obj\Debug\net6.0\Solutions.pdb
+C:\Sharp\Solutions\Solutions\obj\Debug\net6.0\Solutions.genruntimeconfig.cache
+C:\Sharp\Solutions\Solutions\obj\Debug\net6.0\ref\Solutions.dll

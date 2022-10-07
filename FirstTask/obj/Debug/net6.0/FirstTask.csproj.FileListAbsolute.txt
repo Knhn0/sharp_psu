@@ -1,0 +1,15 @@
+C:\Sharp\Solutions\FirstTask\bin\Debug\net6.0\FirstTask.exe
+C:\Sharp\Solutions\FirstTask\bin\Debug\net6.0\FirstTask.deps.json
+C:\Sharp\Solutions\FirstTask\bin\Debug\net6.0\FirstTask.runtimeconfig.json
+C:\Sharp\Solutions\FirstTask\bin\Debug\net6.0\FirstTask.dll
+C:\Sharp\Solutions\FirstTask\bin\Debug\net6.0\FirstTask.pdb
+C:\Sharp\Solutions\FirstTask\obj\Debug\net6.0\FirstTask.csproj.AssemblyReference.cache
+C:\Sharp\Solutions\FirstTask\obj\Debug\net6.0\FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp\Solutions\FirstTask\obj\Debug\net6.0\FirstTask.AssemblyInfoInputs.cache
+C:\Sharp\Solutions\FirstTask\obj\Debug\net6.0\FirstTask.AssemblyInfo.cs
+C:\Sharp\Solutions\FirstTask\obj\Debug\net6.0\FirstTask.csproj.CoreCompileInputs.cache
+C:\Sharp\Solutions\FirstTask\obj\Debug\net6.0\FirstTask.dll
+C:\Sharp\Solutions\FirstTask\obj\Debug\net6.0\refint\FirstTask.dll
+C:\Sharp\Solutions\FirstTask\obj\Debug\net6.0\FirstTask.pdb
+C:\Sharp\Solutions\FirstTask\obj\Debug\net6.0\FirstTask.genruntimeconfig.cache
+C:\Sharp\Solutions\FirstTask\obj\Debug\net6.0\ref\FirstTask.dll

@@ -1,0 +1,5 @@
+C:\Sharp\Solutions\SecondTask\obj\Debug\net6.0\SecondTask.csproj.AssemblyReference.cache
+C:\Sharp\Solutions\SecondTask\obj\Debug\net6.0\SecondTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sharp\Solutions\SecondTask\obj\Debug\net6.0\SecondTask.AssemblyInfoInputs.cache
+C:\Sharp\Solutions\SecondTask\obj\Debug\net6.0\SecondTask.AssemblyInfo.cs
+C:\Sharp\Solutions\SecondTask\obj\Debug\net6.0\SecondTask.csproj.CoreCompileInputs.cache
