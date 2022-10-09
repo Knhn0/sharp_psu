@@ -14,8 +14,8 @@ namespace SecondTask1
     {
         static void Main()
         {
-            Department depart1 = new Department();
             Employee alex = new Employee();
+            Department depart1 = new Department();
 
             alex.FirstName = "Alex";
             alex.LastName = "Volkov";
@@ -23,8 +23,8 @@ namespace SecondTask1
             alex.GetId = "01";
             Employee.Print(alex);
             alex.dep = depart1;
-            depart1.employees.Add(alex);
-
+            depart1.Employees.Add(alex);
+            Console.WriteLine(depart1.PrintName());
         }
     }
 }

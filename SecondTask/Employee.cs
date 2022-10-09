@@ -13,55 +13,30 @@ namespace SecondTask1
         private static string lastName;
         private static int age;
 
-        public Department dep
-        {
-            get;
-            set;
-        }
+        public Department dep { get; set; }
 
         public string GetId
         {
-            get
-            {
-                return id;
-            }
-            set
-            {
-                id = value;
-            }
-
+            get { return id; }
+            set { id = value; }
         }
 
         public string FirstName
         {
-            get
-            {
-                return firstName;
-            }
-            set
-            {
-                firstName = value;
-            }
+            get { return firstName; }
+            set { firstName = value; }
         }
 
         public string LastName
         {
-            get
-            {
-                return lastName;
-            }
-            set
-            {
-                lastName = value;
-            }
+            get { return lastName; }
+            set { lastName = value; }
         }
 
         public int Age
         {
-            get
-            { return age; }
+            get { return age; }
             set { age = value; }
-
         }
 
         public static void Print(Employee employee)

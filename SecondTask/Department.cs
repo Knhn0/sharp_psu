@@ -8,12 +8,13 @@ namespace SecondTask1
         private int numberOfDep;
         private string nameOfLead;
 
-        public List<Employee> employees { get; set; }
+        public List<Employee> Employees { get; set; }
 
         public Employee PrintName()
         {
-            return employees;
+            return Employees[0];
         }
+
         public string NameOfDep
         {
             get { return nameOfDep; }

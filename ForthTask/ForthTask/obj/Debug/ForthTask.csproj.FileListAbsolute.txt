@@ -1,0 +1,7 @@
+C:\Sharp\Solutions\ForthTask\ForthTask\bin\Debug\ForthTask.exe
+C:\Sharp\Solutions\ForthTask\ForthTask\bin\Debug\ForthTask.pdb
+C:\Sharp\Solutions\ForthTask\ForthTask\obj\Debug\ForthTask.csproj.AssemblyReference.cache
+C:\Sharp\Solutions\ForthTask\ForthTask\obj\Debug\ForthTask.csproj.SuggestedBindingRedirects.cache
+C:\Sharp\Solutions\ForthTask\ForthTask\obj\Debug\ForthTask.csproj.CoreCompileInputs.cache
+C:\Sharp\Solutions\ForthTask\ForthTask\obj\Debug\ForthTask.exe
+C:\Sharp\Solutions\ForthTask\ForthTask\obj\Debug\ForthTask.pdb
