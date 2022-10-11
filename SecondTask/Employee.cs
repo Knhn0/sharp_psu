@@ -12,10 +12,17 @@ namespace SecondTask1
         private static string firstName;
         private static string lastName;
         private static int age;
+        private string nameOfDep;
 
         public Department dep { get; set; }
 
-        public string GetId
+        public string NameOfDep
+        {
+            get { return nameOfDep; }
+            set { nameOfDep = value; }
+        }
+
+        public string Id
         {
             get { return id; }
             set { id = value; }
